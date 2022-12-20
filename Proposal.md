@@ -2,7 +2,7 @@
 
 ## wir stellen Ihnen hiermit unsere Proposal für ein Projekt zum Thema Bogenschießen und Punktestandzähler vor.
 
-### Unser Ziel ist es, eine Anwendung zu entwickeln, die es ermöglicht, den Punktestand beim Bogenschießen zu zählen ### und zu verfolgen. 
+### Unser Ziel ist es, eine Anwendung zu entwickeln, die es ermöglicht, den Punktestand beim Bogenschießen zu zählen und zu verfolgen. 
 ### Die Anwendung soll verschiedene Funktionalitäten bieten, 
 ### um das Bogenschießen für alle Beteiligten noch attraktiver zu gestalten.
 
@@ -29,6 +29,7 @@
 ### Die Anwendung soll auf mehreren Geräten, wie beispielsweise Smartphones und Tablets, 
 ### verwendet werden können.
 
+
 ### Ausgangslage
 
 #### - Fähigkeiten der Organisation (was können wir)
@@ -53,6 +54,7 @@
 
 #### Deadline: ../../....
 #### Entwicklungsumgebungen : Visual Studio oder ...
+
 
 ### Wir sind davon überzeugt, dass unsere Anwendung dazu beitragen wird, 
 ### das Bogenschießen noch attraktiver und interessanter zu gestalten. 
